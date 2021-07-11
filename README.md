@@ -1,3 +1,7 @@
+This is a repository for the LoreHub's techical documentation.
+
+ 
+
 # LoreHub
 
 LoreHub is a web app that helps creates stories and build worlds.
